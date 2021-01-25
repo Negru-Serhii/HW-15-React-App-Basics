@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HW-15-React-App-Basics/static/css/main.d71ab1b9.chunk.css",
+    "main.js": "/HW-15-React-App-Basics/static/js/main.cb8f8bd2.chunk.js",
+    "main.js.map": "/HW-15-React-App-Basics/static/js/main.cb8f8bd2.chunk.js.map",
+    "runtime-main.js": "/HW-15-React-App-Basics/static/js/runtime-main.2b737498.js",
+    "runtime-main.js.map": "/HW-15-React-App-Basics/static/js/runtime-main.2b737498.js.map",
+    "static/js/2.cf0263ce.chunk.js": "/HW-15-React-App-Basics/static/js/2.cf0263ce.chunk.js",
+    "static/js/2.cf0263ce.chunk.js.map": "/HW-15-React-App-Basics/static/js/2.cf0263ce.chunk.js.map",
+    "static/js/3.b22ecf78.chunk.js": "/HW-15-React-App-Basics/static/js/3.b22ecf78.chunk.js",
+    "static/js/3.b22ecf78.chunk.js.map": "/HW-15-React-App-Basics/static/js/3.b22ecf78.chunk.js.map",
+    "index.html": "/HW-15-React-App-Basics/index.html",
+    "static/css/main.d71ab1b9.chunk.css.map": "/HW-15-React-App-Basics/static/css/main.d71ab1b9.chunk.css.map",
+    "static/js/2.cf0263ce.chunk.js.LICENSE.txt": "/HW-15-React-App-Basics/static/js/2.cf0263ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b737498.js",
+    "static/js/2.cf0263ce.chunk.js",
+    "static/css/main.d71ab1b9.chunk.css",
+    "static/js/main.cb8f8bd2.chunk.js"
+  ]
+}
